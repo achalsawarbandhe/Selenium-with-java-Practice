@@ -1,0 +1,567 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Complete_Bdate",
+            "request": "launch",
+            "mainClass": "Assignments.Complete_Bdate",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Facebook1",
+            "request": "launch",
+            "mainClass": "Assignments.Facebook1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Hrm1",
+            "request": "launch",
+            "mainClass": "Assignments.Hrm1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Letcode1",
+            "request": "launch",
+            "mainClass": "Assignments.Letcode1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "WebDriver1",
+            "request": "launch",
+            "mainClass": "WebDriverInterface1.WebDriver1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "EnableMerhod1",
+            "request": "launch",
+            "mainClass": "WebElementMethods.EnableMerhod1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "GetAttribute1",
+            "request": "launch",
+            "mainClass": "WebElementMethods.GetAttribute1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "GetCssValue1",
+            "request": "launch",
+            "mainClass": "WebElementMethods.GetCssValue1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "GetLocation1",
+            "request": "launch",
+            "mainClass": "WebElementMethods.GetLocation1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "GetRect1",
+            "request": "launch",
+            "mainClass": "WebElementMethods.GetRect1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "GetSize1",
+            "request": "launch",
+            "mainClass": "WebElementMethods.GetSize1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "GetSize2",
+            "request": "launch",
+            "mainClass": "WebElementMethods.GetSize2",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "GetTagName1",
+            "request": "launch",
+            "mainClass": "WebElementMethods.GetTagName1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "GetText_1",
+            "request": "launch",
+            "mainClass": "WebElementMethods.GetText_1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "IsDesplayed_1",
+            "request": "launch",
+            "mainClass": "WebElementMethods.IsDesplayed_1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "IsEnabled2",
+            "request": "launch",
+            "mainClass": "WebElementMethods.IsEnabled2",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "IsSelected1",
+            "request": "launch",
+            "mainClass": "WebElementMethods.IsSelected1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "IsSelected_2",
+            "request": "launch",
+            "mainClass": "WebElementMethods.IsSelected_2",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "KeyUP_KeyDown",
+            "request": "launch",
+            "mainClass": "WebElementMethods.KeyUP_KeyDown",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "MethodSubmit",
+            "request": "launch",
+            "mainClass": "WebElementMethods.MethodSubmit",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "SendKeys1",
+            "request": "launch",
+            "mainClass": "WebElementMethods.SendKeys1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "VTiger1",
+            "request": "launch",
+            "mainClass": "WebElementMethods.VTiger1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "XpathByAttribute",
+            "request": "launch",
+            "mainClass": "XPathSel.XpathByAttribute",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "XpathByContainsForText",
+            "request": "launch",
+            "mainClass": "XPathSel.XpathByContainsForText",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "XpathByContainsFor_Attribute",
+            "request": "launch",
+            "mainClass": "XPathSel.XpathByContainsFor_Attribute",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "XpathByText1",
+            "request": "launch",
+            "mainClass": "XPathSel.XpathByText1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "AnotherWay_To_DragAndDrop",
+            "request": "launch",
+            "mainClass": "actions_class.AnotherWay_To_DragAndDrop",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Click_Method",
+            "request": "launch",
+            "mainClass": "actions_class.Click_Method",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "ContexClick_Method",
+            "request": "launch",
+            "mainClass": "actions_class.ContexClick_Method",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "DoubleClick_Method",
+            "request": "launch",
+            "mainClass": "actions_class.DoubleClick_Method",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "DragAndDropBy_Exa",
+            "request": "launch",
+            "mainClass": "actions_class.DragAndDropBy_Exa",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "DragAndDrop_Example2",
+            "request": "launch",
+            "mainClass": "actions_class.DragAndDrop_Example2",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "DragAndDrop_Exampleone_With_Switch",
+            "request": "launch",
+            "mainClass": "actions_class.DragAndDrop_Exampleone_With_Switch",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "DranAndDropBy_Exa_Google",
+            "request": "launch",
+            "mainClass": "actions_class.DranAndDropBy_Exa_Google",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "MoveToElement_Method",
+            "request": "launch",
+            "mainClass": "actions_class.MoveToElement_Method",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "MoveToElement_OFFset_Method",
+            "request": "launch",
+            "mainClass": "actions_class.MoveToElement_OFFset_Method",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "MoveToOFFset_Method",
+            "request": "launch",
+            "mainClass": "actions_class.MoveToOFFset_Method",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "SendKeysTo_SecondMethod",
+            "request": "launch",
+            "mainClass": "actions_class.SendKeysTo_SecondMethod",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "SendKeys_Method",
+            "request": "launch",
+            "mainClass": "actions_class.SendKeys_Method",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "ActiTimeTestCase",
+            "request": "launch",
+            "mainClass": "basic.ActiTimeTestCase",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "CloseAndQuit",
+            "request": "launch",
+            "mainClass": "basic.CloseAndQuit",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "FlipCart",
+            "request": "launch",
+            "mainClass": "basic.FlipCart",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "GetWindowHandle_",
+            "request": "launch",
+            "mainClass": "basic.GetWindowHandle_",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "GetWindowHandles__",
+            "request": "launch",
+            "mainClass": "basic.GetWindowHandles__",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "JioTestCase",
+            "request": "launch",
+            "mainClass": "basic.JioTestCase",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "LetCodeTestcase",
+            "request": "launch",
+            "mainClass": "basic.LetCodeTestcase",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Test1",
+            "request": "launch",
+            "mainClass": "basic.Test1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "XPathCorelative",
+            "request": "launch",
+            "mainClass": "basic.XPathCorelative",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Example1",
+            "request": "launch",
+            "mainClass": "basicMaven.Example1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Explicit2",
+            "request": "launch",
+            "mainClass": "explicit_wait.Explicit2",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Explicit_wait1",
+            "request": "launch",
+            "mainClass": "explicit_wait.Explicit_wait1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Example1(1)",
+            "request": "launch",
+            "mainClass": "findElements_method.Example1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Example2",
+            "request": "launch",
+            "mainClass": "findElements_method.Example2",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Action_On_Desabled",
+            "request": "launch",
+            "mainClass": "javaScriptExecuter_package.Action_On_Desabled",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Desabled_Ex2",
+            "request": "launch",
+            "mainClass": "javaScriptExecuter_package.Desabled_Ex2",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Disabled_Ex3",
+            "request": "launch",
+            "mainClass": "javaScriptExecuter_package.Disabled_Ex3",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Handle_AutoSuggetion",
+            "request": "launch",
+            "mainClass": "javaScriptExecuter_package.Handle_AutoSuggetion",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Handle_DefaultAutosuggestion",
+            "request": "launch",
+            "mainClass": "javaScriptExecuter_package.Handle_DefaultAutosuggestion",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "PopUp_Operation",
+            "request": "launch",
+            "mainClass": "javaScriptExecuter_package.PopUp_Operation",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "ScrollBy_Scrolling_Operation",
+            "request": "launch",
+            "mainClass": "javaScriptExecuter_package.ScrollBy_Scrolling_Operation",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "ScrollTo1_Method",
+            "request": "launch",
+            "mainClass": "javaScriptExecuter_package.ScrollTo1_Method",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "ScrollTo_Ex2",
+            "request": "launch",
+            "mainClass": "javaScriptExecuter_package.ScrollTo_Ex2",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Sroll_And_Click",
+            "request": "launch",
+            "mainClass": "javaScriptExecuter_package.Sroll_And_Click",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "baseForHomepageAndLogoutpage",
+            "request": "launch",
+            "mainClass": "pomBaseClass.baseForHomepageAndLogoutpage",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "JavaScript_PopUp",
+            "request": "launch",
+            "mainClass": "popUp.JavaScript_PopUp",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "GetOptions_Method",
+            "request": "launch",
+            "mainClass": "select_class__.GetOptions_Method",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "GetOptrions_Example2",
+            "request": "launch",
+            "mainClass": "select_class__.GetOptrions_Example2",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Get_First_Selected_Option1",
+            "request": "launch",
+            "mainClass": "select_class__.Get_First_Selected_Option1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "IsMultiple_1",
+            "request": "launch",
+            "mainClass": "select_class__.IsMultiple_1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "SelectBy_Index1",
+            "request": "launch",
+            "mainClass": "select_class__.SelectBy_Index1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "SelectBy_Value1",
+            "request": "launch",
+            "mainClass": "select_class__.SelectBy_Value1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "SelectBy_Visible_Text",
+            "request": "launch",
+            "mainClass": "select_class__.SelectBy_Visible_Text",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "ActitimeSync1",
+            "request": "launch",
+            "mainClass": "synchronization1.ActitimeSync1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Example1(2)",
+            "request": "launch",
+            "mainClass": "takeScreenshot_WebElement.Example1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Auto_FileCreation",
+            "request": "launch",
+            "mainClass": "takeScreenshot_WebPage.Auto_FileCreation",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Automatic_TakeScreenshot",
+            "request": "launch",
+            "mainClass": "takeScreenshot_WebPage.Automatic_TakeScreenshot",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Practice_screenshot",
+            "request": "launch",
+            "mainClass": "takeScreenshot_WebPage.Practice_screenshot",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "TakeScreenshot_manual_1",
+            "request": "launch",
+            "mainClass": "takeScreenshot_WebPage.TakeScreenshot_manual_1",
+            "projectName": "Selenium18"
+        },
+        {
+            "type": "java",
+            "name": "Get_Current_Url",
+            "request": "launch",
+            "mainClass": "webdriver_methods.Get_Current_Url",
+            "projectName": "Selenium18"
+        }
+    ]
+}
